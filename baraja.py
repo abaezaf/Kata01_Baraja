@@ -7,5 +7,3 @@ def crearBaraja():
         for numero in numeros:
             baraja.append(numero+palo)
     return baraja
-
-crearBaraja()
